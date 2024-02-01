@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://i.ytimg.com/vi/tG35R8F2j8k/maxresdefault.jpg); /* The image used */
+   
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+  
+#title{color: white;font-size: 85px;}
+#names{ line-height: 0; color: white;}
+#Bio{background-color: rgba(255, 255, 255, 0.418); color:black;}
+table,th,td{
+    border: 1px solid black;
+    color: white;
+}
+form{
+    color: white;
+ padding: 1;
+}
