@@ -10,10 +10,11 @@ body{
 #names{ line-height: 0; color: white;}
 #Bio{background-color: rgba(255, 255, 255, 0.418); color:black;}
 table,th,td{
-    border: 1px solid black;
-    color: white;
+  border: 1px solid black;
+  color: white;
 }
 form{
-    color: white;
- padding: 1;
+  border: 10px solid black;
+  color: white;
+border-width: 1px;
 }
